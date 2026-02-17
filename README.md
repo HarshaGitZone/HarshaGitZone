@@ -1,14 +1,14 @@
 <!-- ===================== BANNER ===================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=220&section=header&text=Harsha%20Vardhan%20Botlagunta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript%20%7C%20Finance%20%26%20Productivity%20Apps&descAlignY=60&descSize=16" />
-</p>
+</p> -->
 
 <!-- ===================== INTRO ===================== -->
-<h2 align="center">Hi 👋, I'm Harsha</h2>
+<h2 align="center">Hi 👋, I'm Harsha Vardhan Botlagunta</h2>
 
-<p align="center">
+<!-- <p align="center">
   Full Stack Developer focused on building modern web apps with <b>MERN</b> and <b>TypeScript</b>.
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/" target="_blank">
@@ -67,10 +67,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshaGitZone&show_icons=true&hide_border=true&count_private=true" />
 
-</p>
+</p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshagitzone&show_icons=true&locale=en" alt="harshagitzone" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p>
+
 
 ---
 
