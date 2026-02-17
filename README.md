@@ -21,20 +21,13 @@
 
 ---
 
-
-## 🚀 Featured Projects
-
-### 💰 LuiFlow — Personal Finance Tracker
-- 🌐 Live: https://finflow-steel-delta.vercel.app/
-- 🎥 Demo: https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing
-- 🧰 Stack: React + TypeScript + Node.js + Express + MongoDB  
-- ⭐ Highlights: CSV Import Pipeline, Salary Planner, Debt Manager, Stock Portfolio
 ## 🚀 Featured Projects
 
 ### 💰 LuiFlow — Personal Finance & Wealth Management System
 - 🌐 Live: https://finflow-steel-delta.vercel.app/
 - 🎥 Video Demo: https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing
-
+- 🧰 Stack: React + TypeScript + Node.js + Express + MongoDB  
+- ⭐ Highlights: CSV Import Pipeline, Salary Planner, Debt Manager, Stock Portfolio
 ---
 
 ### ⏳ Task Nova — Focus & Workflow Management System
