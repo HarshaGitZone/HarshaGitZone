@@ -55,24 +55,19 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
 <p>
+  <b>Frontend:</b>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,redux" />
 </p>
 
-### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <b>Backend and Databases:</b>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <b>Tools:</b>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 
