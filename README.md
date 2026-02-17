@@ -3,21 +3,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=220&section=header&text=Harsha%20Vardhan%20Botlagunta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript%20%7C%20Finance%20%26%20Productivity%20Apps&descAlignY=60&descSize=16" />
 </p> -->
 
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.svg?font=Fira+Code&size=26&duration=1200&pause=800&center=true&vCenter=true&width=1000&color=111827&lines=Hi+%F0%9F%91%8B%2C+I%27m;నమస్కారం+%F0%9F%91%8B%2C+నేను;Bonjour+%F0%9F%91%8B%2C+je+suis;வணக்கம்+%F0%9F%91%8B%2C+நான்;നമസ്കാരം+%F0%9F%91%8B%2C+ഞാൻ;ನಮಸ್ಕಾರ+%F0%9F%91%8B%2C+ನಾನು;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA" />
-</p>
 
 
-<h2 align="center">
- Harsha Vardhan Botlagunta
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://harshavardhanbotlagunta.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</h2>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1200&pause=800&center=true&vCenter=true&width=650&height=35&color=111827&lines=Hi+%F0%9F%91%8B%2C+I%27m;నమస్కారం+%F0%9F%91%8B%2C+నేను;Bonjour+%F0%9F%91%8B%2C+je+suis;வணக்கம்+%F0%9F%91%8B%2C+நான்;നമസ്കാരം+%F0%9F%91%8B%2C+ഞാൻ;ನಮಸ್ಕಾರ+%F0%9F%91%8B%2C+ನಾನು;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA" />
+
+  <h1 style="margin: 0; padding: 0; line-height: 1.1;">
+    Harsha Vardhan Botlagunta
+  </h1>
+
+  <p style="margin: 6px 0 0 0; padding: 0;">
+    <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://harshavardhanbotlagunta.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
 
 
