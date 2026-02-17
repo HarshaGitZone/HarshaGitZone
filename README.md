@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1200&pause=800&center=true&vCenter=true&width=650&height=35&color=111827&lines=Hi+%F0%9F%91%8B%2C+I%27m;నమస్కారం+%F0%9F%91%8B%2C+నేను;Bonjour+%F0%9F%91%8B%2C+je+suis;வணக்கம்+%F0%9F%91%8B%2C+நான்;നമസ്കാരം+%F0%9F%91%8B%2C+ഞാൻ;ನಮಸ್ಕಾರ+%F0%9F%91%8B%2C+ನಾನು;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1200&pause=800&center=true&vCenter=true&width=650&height=35&color=4546E5&lines=Hi+%F0%9F%91%8B%2C+I%27m;నమస్కారం+%F0%9F%91%8B%2C+నేను;Bonjour+%F0%9F%91%8B%2C+je+suis;வணக்கம்+%F0%9F%91%8B%2C+நான்;നമസ്കാരം+%F0%9F%91%8B%2C+ഞാൻ;ನಮಸ್ಕಾರ+%F0%9F%91%8B%2C+ನಾನು;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA" />
 
   <h1 style="margin: 0; padding: 0; line-height: 1.1;">
     Harsha Vardhan Botlagunta
