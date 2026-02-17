@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha vardhan Botlagunta</h1>
+<h1 align="center">Harsha vardhan Botlagunta</h1>
 <h3 align="center">Build websites</h3>
 
 <h3 align="left">Connect with me:</h3>
