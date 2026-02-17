@@ -21,15 +21,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently building full-stack apps with **React, Node.js, Express, MongoDB**
-- ⚡ Strong interest in **FinTech, analytics dashboards, and scalable backend APIs**
-- 🧠 Learning more about **system design, clean architecture, and performance optimization**
-- 🚀 Built projects like **LuiFlow (Personal Finance Tracker)** and productivity apps
-- 🎯 Open to **internships / full-time opportunities** in Full Stack Development
-
----
 
 ## 🚀 Featured Projects
 
@@ -38,6 +29,34 @@
 - 🎥 Demo: https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing
 - 🧰 Stack: React + TypeScript + Node.js + Express + MongoDB  
 - ⭐ Highlights: CSV Import Pipeline, Salary Planner, Debt Manager, Stock Portfolio
+## 🚀 Featured Projects
+
+### 💰 LuiFlow — Personal Finance & Wealth Management System
+- 🌐 Live: https://finflow-steel-delta.vercel.app/
+- 🎥 Video Demo: https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing
+
+---
+
+### ⏳ Task Nova — Focus & Workflow Management System
+- 🌐 Live: https://tasknova-harshavardhanbotlagunta.onrender.com/
+- 🎥 Video Demo: https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view
+
+---
+
+### ✍️ BlogHub — Full-Stack MERN Blogging Ecosystem
+- 🌐 Live: https://blog-harshavardhanbotlagunta.onrender.com/
+- 🎥 Video Demo: https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing
+
+---
+
+### 🧠 GeoAI — AI-Driven Land Assessment & Risk Prediction
+- 🌐 Live: https://geonexus-ai.vercel.app/
+
+---
+
+### 👁️ Diabetic Retinopathy Detection (Deep Learning)
+- 🌐 Live: https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/
+- 🎥 Video Demo: https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link
 
 ---
 
