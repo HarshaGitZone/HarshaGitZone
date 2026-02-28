@@ -33,7 +33,7 @@
 
 
 ## 🚀 Featured Projects
-- 💰 **FinFlow** — Personal Finance & Wealth Management  <a href="https://finflow-steel-delta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing" target="_blank">🎥</a>
+- 💰 **FinFlow** — Personal Finance & Wealth Management  <a href="https://fin-flow-eight-eta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing" target="_blank">🎥</a>
 - ⏳ **Task Nova** — Focus & Workflow Management  <a href="https://tasknova-harshavardhanbotlagunta.onrender.com/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view" target="_blank">🎥</a>
 - ✍️ **BlogHub** — MERN Blogging Ecosystem  <a href="https://blog-harshavardhanbotlagunta.onrender.com/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing" target="_blank">🎥</a>
 - 🌍 **GeoNexusAI** — Land Assessment & Risk Prediction  <a href="https://geonexus-ai.vercel.app/" target="_blank">🌐</a>
