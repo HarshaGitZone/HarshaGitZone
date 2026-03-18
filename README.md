@@ -53,6 +53,7 @@
 
 ---
 -->
+<!--
 ## 🛠 Tech Stack
 
 
@@ -62,6 +63,15 @@
 | **Frontend** | <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" /></a> |
 | **Backend & Databases** | <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
 | **Tools** | <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
+-->
+## 🛠 Tech Stack
+
+| Category | Skills |
+|---------|--------|
+| **Languages** | <a href="https://www.cprogramming.com/" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a> <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" /></a> |
+| **Frontend** | <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://skillicons.dev/icons?i=redux" /></a> |
+| **Backend & Databases** | <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
+| **Tools** | <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
 
 ---
 <!--## 📊 GitHub Stats-->
@@ -74,5 +84,3 @@
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p>-->
 
-
----
