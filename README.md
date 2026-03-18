@@ -81,7 +81,10 @@
 
 </p>--> 
 
-
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaGitZone&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGitZone&layout=donut-vertical&theme=tokyonight&hide_border=true" />
+</p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagitzone&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
