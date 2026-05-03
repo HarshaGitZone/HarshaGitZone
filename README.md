@@ -37,7 +37,7 @@
 - ⏳ **Task Nova** — Focus & Workflow Management  <a href="https://tasknova-harshavardhanbotlagunta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view" target="_blank">🎥</a>
 - ✍️ **BlogHub** — MERN Blogging Ecosystem  <a href="https://bloghub-harshavardhanbotlagunta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing" target="_blank">🎥</a>
 - 🌍 **GeoNexusAI** — Land Assessment & Risk Prediction  <a href="https://geo-nexus-ai.vercel.app/" target="_blank">🌐</a><a
-- href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" target="_blank">🎥</a>
+href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" target="_blank">🎥</a>
 - 👁️ **Diabetic Retinopathy** — Deep Learning  <a href="https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link" target="_blank">🎥</a>
 
 
