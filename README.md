@@ -88,5 +88,4 @@ href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" ta
 </p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagitzone&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagitzone&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
+
