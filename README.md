@@ -28,7 +28,7 @@
   </p>
 
 </div>
-
+<img src="./QR_portfolio.png" width="180" alt="Portfolio QR Code">
 
 
 
