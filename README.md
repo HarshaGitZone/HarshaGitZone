@@ -7,7 +7,7 @@
 
 
 
-<img src="QR-portfolio.png" width="180" alt="Portfolio QR Code">
+<img src="HarshaGitZone/QR-portfolio.png" width="180" alt="Portfolio QR Code">
 
 <div align="center">
 
