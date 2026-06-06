@@ -30,10 +30,6 @@
 </div>
 
 
-<p align="center">
-  <img src="QR_portfolio.png" width="180" alt="Portfolio QR Code">
-</p>
-<h3 align="center">Scan to Visit My Portfolio</h3>
 
 
 ## 🚀 Featured Projects
