@@ -75,7 +75,7 @@ href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" ta
 | **Tools** | <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
 
 ---
-## 📊 GitHub Stats
+
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshaGitZone&show_icons=true&hide_border=true&count_private=true" />
@@ -86,6 +86,6 @@ href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" ta
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaGitZone&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGitZone&layout=donut-vertical&theme=tokyonight&hide_border=true" />
 </p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p> -->
 
 
