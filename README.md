@@ -39,6 +39,7 @@
 - 🌍 **GeoNexusAI** — Land Assessment & Risk Prediction  <a href="https://geo-nexus-ai.vercel.app/" target="_blank">🌐</a><a
 href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" target="_blank">🎥</a>
 - 👁️ **Diabetic Retinopathy** — Deep Learning  <a href="https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link" target="_blank">🎥</a>
+- 🎪 **College Event Management** — Java <a href="https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419" target="_blank">🎥</a>
 
 
 ---
