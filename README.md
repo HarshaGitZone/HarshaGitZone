@@ -126,7 +126,7 @@ and continuously improving as a developer.
 
 <!-- ===================== CONNECT ===================== -->
 
-<div align="center">
+<!-- <div align="center">
 
 <h3>
   <code>HarshaGitZone ~ $ connect</code>
@@ -148,7 +148,7 @@ and continuously improving as a developer.
   />
 </a>
 
-<br><br>
+<br><br> -->
 
 <code>Thanks for visiting! 🚀</code>
 
