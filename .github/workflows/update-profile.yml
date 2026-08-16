@@ -1,0 +1,68 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    # Runs every day at 06:17 UTC
+    - cron: "17 6 * * *"
+
+  # Allows us to manually run it from GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ------------------------------------------------------
+      # Checkout repository
+      # ------------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ------------------------------------------------------
+      # Setup Python
+      # ------------------------------------------------------
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ------------------------------------------------------
+      # Install dependencies
+      # ------------------------------------------------------
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      # ------------------------------------------------------
+      # Fetch latest contributions
+      # ------------------------------------------------------
+
+      - name: Fetch contributions
+        run: |
+          python scripts/fetch_contributions.py
+
+      # ------------------------------------------------------
+      # Generate heatmap
+      # ------------------------------------------------------
+
+      - name: Generate heatmap
+        run: |
+          python scripts/render_heatmap_svg.py
+
+      # ------------------------------------------------------
+      # Commit updated files
+      # ------------------------------------------------------
+
+      - name: Commit updated profile
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution graph"
+          file_pattern: "data/contributions.json profile/contrib-heatmap.svg"

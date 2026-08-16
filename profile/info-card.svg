@@ -1,0 +1,260 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="470"
+height="370"
+viewBox="0 0 470 370">
+
+<style>
+
+@keyframes cardReveal {
+    from {
+        opacity: 0;
+        transform: translateX(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.card-line {
+    animation-name: cardReveal;
+    animation-duration: 0.45s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: both;
+}
+
+@keyframes cursorBlink {
+    0%, 45% {
+        opacity: 1;
+    }
+
+    46%, 100% {
+        opacity: 0;
+    }
+}
+
+.cursor {
+    animation: cursorBlink 0.8s infinite;
+}
+
+</style>
+
+<rect
+    x="1"
+    y="1"
+    width="468"
+    height="368"
+    rx="12"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"/>
+
+<circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="22" r="5" fill="#27c93f"/>
+
+<text
+    x="80"
+    y="27"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#8b949e"
+>HarshaGitZone ~ profile</text>
+
+<line
+    x1="18"
+    y1="45"
+    x2="452"
+    y2="45"
+    stroke="#30363d"
+    stroke-width="1"/>
+
+<g class="card-line" style="animation-delay:0.10s">
+
+<text
+    x="22"
+    y="75"
+    font-family="Courier New, monospace"
+    font-size="22px"
+    font-weight="bold"
+    fill="#e6edf3"
+>Harsha Vardhan</text>
+
+<text
+    x="22"
+    y="96"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#2dd4bf"
+>@HarshaGitZone</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.20s">
+
+<text
+    x="22"
+    y="125"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>ROLE</text>
+
+<text
+    x="105"
+    y="125"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>Full-Stack Developer</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.27s">
+
+<text
+    x="22"
+    y="157"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>EDU</text>
+
+<text
+    x="105"
+    y="157"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>B.Tech IT • VNR VJIET &#x27;26</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.34s">
+
+<text
+    x="22"
+    y="189"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>LOCATION</text>
+
+<text
+    x="105"
+    y="189"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>Hyderabad, India</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.41s">
+
+<text
+    x="22"
+    y="221"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>STACK</text>
+
+<text
+    x="105"
+    y="221"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>React • Node.js • Express • MongoDB</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.48s">
+
+<text
+    x="22"
+    y="253"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>LANG</text>
+
+<text
+    x="105"
+    y="253"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>C++ • Java • JavaScript • Python • SQL</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.55s">
+
+<text
+    x="22"
+    y="285"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>STATUS</text>
+
+<text
+    x="105"
+    y="285"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>Building &amp; learning</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.75s">
+
+<text
+    x="22"
+    y="325"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>PROJECTS</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.82s">
+
+<text
+    x="105"
+    y="325"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="normal"
+    fill="#2dd4bf"
+>DeepFabric • NoteFabric • FinFlow • GeoNexusAI</text>
+</g>
+<rect
+    class="cursor"
+    x="440"
+    y="342"
+    width="7"
+    height="13"
+    fill="#39d353"/>
+</svg>
