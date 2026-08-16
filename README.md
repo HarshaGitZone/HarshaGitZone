@@ -1,6 +1,7 @@
 <div align="center">
 
-  <!-- CONTRIBUTION GRAPH -->
+  <!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
   <img
     src="./profile/contrib-heatmap.svg"
     width="840"
@@ -9,14 +10,15 @@
 
   <br><br>
 
-  <!-- TERMINAL IDENTITY -->
+  <!-- ===================== TERMINAL PROFILE ===================== -->
+
   <h3>
     <code>HarshaGitZone ~ $ whoami</code>
   </h3>
 
   <table>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
         <img
           src="./profile/ascii.svg"
           width="370"
@@ -24,11 +26,11 @@
         />
       </td>
 
-      <td valign="top">
+      <td valign="top" align="center">
         <img
           src="./profile/info-card.svg"
           width="470"
-          alt="Developer information"
+          alt="Harsha Vardhan developer information"
         />
       </td>
     </tr>
@@ -36,19 +38,44 @@
 
   <br>
 
-  <!-- SOCIAL LINKS -->
-  <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <!-- ===================== INTRO ===================== -->
 
-  &nbsp;
+  <p>
+    <strong>Full-Stack Developer</strong> building modern web applications,
+    developer tools, and productivity-focused products.
+  </p>
 
-  <a href="https://harshavardhanbotlagunta.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+
+    &nbsp;
+
+    <a href="https://harshavardhanbotlagunta.netlify.app/">
+      <img
+        src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white"
+        alt="Portfolio"
+      />
+    </a>
+
+    &nbsp;
+
+    <a href="https://github.com/HarshaGitZone">
+      <img
+        src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"
+        alt="GitHub"
+      />
+    </a>
+  </p>
 
 </div>
 
+
+<!-- ===================== PROJECTS ===================== -->
 
 <h3 align="center">
   <code>HarshaGitZone ~ $ ls ./projects</code>
@@ -56,29 +83,31 @@
 
 ## 🚀 Featured Projects
 
-- 💰 **[FinFlow](https://fin-flow-eight-eta.vercel.app/)** — Personal Finance & Wealth Management
-  · [🎥 Demo](https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing)
+- 💰 **[FinFlow](https://fin-flow-eight-eta.vercel.app/)** — Personal Finance & Wealth Management  
+  [🌐 Live](https://fin-flow-eight-eta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing)
 
-- ⏳ **[Task Nova](https://tasknova-harshavardhanbotlagunta.vercel.app/)** — Focus & Workflow Management
-  · [🎥 Demo](https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view)
+- ⏳ **[Task Nova](https://tasknova-harshavardhanbotlagunta.vercel.app/)** — Focus & Workflow Management  
+  [🌐 Live](https://tasknova-harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view)
 
-- ✍️ **[BlogHub](https://bloghub-harshavardhanbotlagunta.vercel.app/)** — MERN Blogging Ecosystem
-  · [🎥 Demo](https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing)
+- ✍️ **[BlogHub](https://bloghub-harshavardhanbotlagunta.vercel.app/)** — MERN Blogging Ecosystem  
+  [🌐 Live](https://bloghub-harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing)
 
-- 🌍 **[GeoNexusAI](https://geo-nexus-ai.vercel.app/)** — Land Assessment & Risk Prediction
-  · [🎥 Demo](https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view)
+- 🌍 **[GeoNexusAI](https://geo-nexus-ai.vercel.app/)** — Land Assessment & Risk Prediction  
+  [🌐 Live](https://geo-nexus-ai.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view)
 
-- 👁️ **[Diabetic Retinopathy](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/)** — Deep Learning
-  · [🎥 Demo](https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link)
+- 👁️ **[Diabetic Retinopathy](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/)** — Deep Learning  
+  [🌐 Live](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/) · [🎥 Demo](https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link)
 
-- 🎪 **College Event Management** — Java
-  · [🎥 Demo](https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419)
+- 🎪 **College Event Management** — Java  
+  [🎥 Demo](https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419)
 
-- 💼 **Personal Portfolio** — HTML · CSS · JavaScript
-  · [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
+- 💼 **Personal Portfolio** — HTML · CSS · JavaScript  
+  [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
 
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 <h3 align="center">
   <code>HarshaGitZone ~ $ cat ./tech-stack</code>
@@ -88,13 +117,15 @@
 
 | Category | Skills |
 |---------|--------|
-| **Languages** | <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a> |
-| **Frontend** | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a> |
-| **Backend & Databases** | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
-| **Tools** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
+| **Languages** | <a href="https://www.cprogramming.com/" title="C"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a> <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" /></a> |
+| **Frontend** | <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/" title="Redux"><img src="https://skillicons.dev/icons?i=redux" /></a> |
+| **Backend & Databases** | <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
+| **Tools** | <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
 
 
 ---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
 
 <h3 align="center">
   <code>HarshaGitZone ~ $ cat ./current-focus</code>
@@ -102,31 +133,44 @@
 
 <div align="center">
 
+### 🎯 Currently Exploring
+
 **Full-Stack Development** · **React** · **TypeScript** · **Node.js** · **MongoDB**
 
-Building useful applications, exploring new technologies, and continuously improving as a developer.
+Building useful applications, exploring new technologies,
+and continuously improving as a developer.
 
 </div>
 
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
+
 <div align="center">
 
-### <code>HarshaGitZone ~ $ exit</code>
+<h3>
+  <code>HarshaGitZone ~ $ connect</code>
+</h3>
 
-**Thanks for visiting! 🚀**
-
-<br>
-
-<a href="https://github.com/HarshaGitZone">
-  <img src="https://img.shields.io/badge/GitHub-HarshaGitZone-181717?style=flat&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
 </a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<a href="https://harshavardhanbotlagunta.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=vercel&logoColor=white"
+    alt="Visit Portfolio"
+  />
 </a>
+
+<br><br>
+
+<code>Thanks for visiting! 🚀</code>
 
 </div>
