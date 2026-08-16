@@ -105,7 +105,7 @@
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-<h3 align="center">
+<!-- <h3 align="center">
   <code>HarshaGitZone ~ $ cat ./current-focus</code>
 </h3>
 
@@ -118,10 +118,8 @@
 Building useful applications, exploring new technologies,
 and continuously improving as a developer.
 
-</div>
+</div> -->
 
-
----
 
 <!-- ===================== CONNECT ===================== -->
 
