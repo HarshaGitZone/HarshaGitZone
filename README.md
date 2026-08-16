@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- MULTILINGUAL GREETING -->
+  <!-- ===================== MULTILINGUAL GREETING ===================== -->
 
-  <img src="YOUR_TYPING_SVG_HERE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1200&pause=800&center=true&vCenter=true&width=650&height=35&color=0EA5E9&lines=Hi+%F0%9F%91%8B%2C+I%27m;నమస్కారం+%F0%9F%91%8B%2C+నేను;Bonjour+%F0%9F%91%8B%2C+je+suis;வணக்கம்+%F0%9F%91%8B%2C+நான்;നമസ്കാരം+%F0%9F%91%8B%2C+ഞാൻ;ನಮಸ್ಕಾರ+%F0%9F%91%8B%2C+ನಾನು;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA" alt="Multilingual greeting">
 
   <h1>Harsha Vardhan Botlagunta</h1>
 
@@ -10,7 +10,7 @@
     <strong>Full-Stack Developer</strong> · React · TypeScript · Node.js · MongoDB
   </p>
 
-  <!-- TERMINAL PROFILE -->
+  <!-- ===================== TERMINAL PROFILE ===================== -->
 
   <p>
     <strong>HarshaGitZone ~ $ whoami</strong>
@@ -25,7 +25,7 @@
 
   <br>
 
-  <!-- SOCIAL LINKS -->
+  <!-- ===================== SOCIAL LINKS ===================== -->
 
   <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -46,7 +46,7 @@
 </div>
 
 
-<!-- CONTRIBUTIONS -->
+<!-- ===================== CONTRIBUTIONS ===================== -->
 
 <br>
 
@@ -57,15 +57,10 @@
 </div>
 
 
-<!-- PROJECTS -->
-
-<h3 align="center">
-  🚀 Featured Projects
-</h3>
 <!-- ===================== PROJECTS ===================== -->
 
 <h3 align="center">
-  <code>HarshaGitZone ~ $ ls ./projects</code>
+  <strong>HarshaGitZone ~ $ ls ./projects</strong>
 </h3>
 
 ## 🚀 Featured Projects
@@ -90,9 +85,12 @@
 
 - 💼 **Personal Portfolio** — HTML · CSS · JavaScript  
   [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
+<!-- PROJECTS -->
 
+<h3 align="center">
+  🚀 Featured Projects
+</h3>
 
----
 
 <!-- ===================== TECH STACK ===================== -->
 
