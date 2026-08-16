@@ -67,33 +67,33 @@
   <strong>HarshaGitZone ~ $ ls ./projects</strong>
 </h3>
 
-## 🚀 Featured Projects
-
-- 💰 **[FinFlow](https://fin-flow-eight-eta.vercel.app/)** — Personal Finance & Wealth Management  
-  [🌐 Live](https://fin-flow-eight-eta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing)
-
-- ⏳ **[Task Nova](https://tasknova-harshavardhanbotlagunta.vercel.app/)** — Focus & Workflow Management  
-  [🌐 Live](https://tasknova-harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view)
-
-- ✍️ **[BlogHub](https://bloghub-harshavardhanbotlagunta.vercel.app/)** — MERN Blogging Ecosystem  
-  [🌐 Live](https://bloghub-harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing)
-
-- 🌍 **[GeoNexusAI](https://geo-nexus-ai.vercel.app/)** — Land Assessment & Risk Prediction  
-  [🌐 Live](https://geo-nexus-ai.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view)
-
-- 👁️ **[Diabetic Retinopathy](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/)** — Deep Learning  
-  [🌐 Live](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/) · [🎥 Demo](https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link)
-
-- 🎪 **College Event Management** — Java  
-  [🎥 Demo](https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419)
-
-- 💼 **Personal Portfolio** — HTML · CSS · JavaScript  
-  [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
-<!-- PROJECTS -->
+<!-- ===================== PROJECTS ===================== -->
 
 <h3 align="center">
-  🚀 Featured Projects
+  <code>HarshaGitZone ~ $ ls ./projects</code>
 </h3>
+
+<div align="left">
+
+### 🚀 Featured Projects
+
+- 💰 **[FinFlow](https://fin-flow-eight-eta.vercel.app/)** — Personal Finance & Wealth Management · [🌐 Live](https://fin-flow-eight-eta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing)
+
+- ⏳ **[Task Nova](https://tasknova-harshavardhanbotlagunta.vercel.app/)** — Focus & Workflow Management · [🌐 Live](https://tasknova-harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view)
+
+- ✍️ **[BlogHub](https://bloghub-harshavardhanbotlagunta.vercel.app/)** — MERN Blogging Ecosystem · [🌐 Live](https://bloghub-harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing)
+
+- 🌍 **[GeoNexusAI](https://geo-nexus-ai.vercel.app/)** — Land Assessment & Risk Prediction · [🌐 Live](https://geo-nexus-ai.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view)
+
+- 👁️ **[Diabetic Retinopathy](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/)** — Deep Learning · [🌐 Live](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/) · [🎥 Demo](https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link)
+
+- 🎪 **College Event Management** — Java · [🎥 Demo](https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419)
+
+- 💼 **Personal Portfolio** — HTML · CSS · JavaScript · [🌐 Live](https://harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
+
+</div>
+
+---
 
 
 <!-- ===================== TECH STACK ===================== -->
