@@ -1,14 +1,8 @@
 <div align="center">
 
-  <!-- ===================== CONTRIBUTION GRAPH ===================== -->
+  <!-- MULTILINGUAL GREETING -->
 
-  <img src="./profile/contrib-heatmap.svg" width="840" alt="GitHub contribution heatmap">
-
-  <br><br>
-
-  <!-- ===================== MULTILINGUAL GREETING ===================== -->
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1200&pause=800&center=true&vCenter=true&width=650&height=35&color=0EA5E9&lines=Hi+%F0%9F%91%8B%2C+I%27m;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82+%F0%9F%91%8B%2C+%E0%B0%A8%E0%B1%87%E0%B0%A8%E0%B1%81;Bonjour+%F0%9F%91%8B%2C+je+suis;%E0%AE%B5%E0%AE%A3%E0%95%8D%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D+%F0%9F%91%8B%2C+%E0%AE%A8%E0%BE%BE%E0%AE%A9%E0%AF%8D;%E0%B4%A8%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B4%82+%F0%9F%91%8B%2C+%E0%B4%9E%E0%B4%BE%E0%B4%A8%E0%B5%8D;%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0+%F0%9F%91%8B%2C+%E0%B2%A8%E0%B2%BE%E0%B2%A8%E0%B3%81;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D8%A3%D9%86%D8%A7" alt="Multilingual greeting">
+  <img src="YOUR_TYPING_SVG_HERE">
 
   <h1>Harsha Vardhan Botlagunta</h1>
 
@@ -16,11 +10,11 @@
     <strong>Full-Stack Developer</strong> · React · TypeScript · Node.js · MongoDB
   </p>
 
-  <!-- ===================== TERMINAL PROFILE ===================== -->
+  <!-- TERMINAL PROFILE -->
 
-  <h3>
-    <code>HarshaGitZone ~ $ whoami</code>
-  </h3>
+  <p>
+    <strong>HarshaGitZone ~ $ whoami</strong>
+  </p>
 
   <table>
     <tr>
@@ -31,7 +25,7 @@
 
   <br>
 
-  <!-- ===================== SOCIAL LINKS ===================== -->
+  <!-- SOCIAL LINKS -->
 
   <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -50,6 +44,24 @@
   </a>
 
 </div>
+
+
+<!-- CONTRIBUTIONS -->
+
+<br>
+
+<div align="center">
+
+  <img src="./profile/contrib-heatmap.svg" width="840" alt="GitHub contribution heatmap">
+
+</div>
+
+
+<!-- PROJECTS -->
+
+<h3 align="center">
+  🚀 Featured Projects
+</h3>
 <!-- ===================== PROJECTS ===================== -->
 
 <h3 align="center">
