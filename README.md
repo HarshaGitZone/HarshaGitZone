@@ -1,93 +1,132 @@
-<!-- ===================== BANNER ===================== -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=220&section=header&text=Harsha%20Vardhan%20Botlagunta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript%20%7C%20Finance%20%26%20Productivity%20Apps&descAlignY=60&descSize=16" />
-</p> -->
-
-
-
-
-
-
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1200&pause=800&center=true&vCenter=true&width=650&height=35&color=0EA5E9&lines=Hi+%F0%9F%91%8B%2C+I%27m;నమస్కారం+%F0%9F%91%8B%2C+నేను;Bonjour+%F0%9F%91%8B%2C+je+suis;வணக்கம்+%F0%9F%91%8B%2C+நான்;നമസ്കാരം+%F0%9F%91%8B%2C+ഞാൻ;ನಮಸ್ಕಾರ+%F0%9F%91%8B%2C+ನಾನು;Hola+%F0%9F%91%8B%2C+soy;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%2C+%EC%A0%80%EB%8A%94;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E6%98%AF;%D8%B3%D9%84%D8%A7%D9%85+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA" />
+  <!-- CONTRIBUTION GRAPH -->
+  <img
+    src="./profile/contrib-heatmap.svg"
+    width="840"
+    alt="GitHub contribution heatmap"
+  />
 
-  <h1 style="margin: 0; padding: 0; line-height: 1.1;">
-    Harsha Vardhan Botlagunta
-  </h1>
+  <br><br>
 
-  <p style="margin: 6px 0 0 0; padding: 0;">
-    <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://harshavardhanbotlagunta.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
-    </a>
-  </p>
+  <!-- TERMINAL IDENTITY -->
+  <h3>
+    <code>HarshaGitZone ~ $ whoami</code>
+  </h3>
+
+  <table>
+    <tr>
+      <td valign="top">
+        <img
+          src="./profile/ascii.svg"
+          width="370"
+          alt="Animated ASCII portrait"
+        />
+      </td>
+
+      <td valign="top">
+        <img
+          src="./profile/info-card.svg"
+          width="470"
+          alt="Developer information"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- SOCIAL LINKS -->
+  <a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  &nbsp;
+
+  <a href="https://harshavardhanbotlagunta.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
+  </a>
 
 </div>
 
 
-
+<h3 align="center">
+  <code>HarshaGitZone ~ $ ls ./projects</code>
+</h3>
 
 ## 🚀 Featured Projects
-- 💰 **FinFlow** — Personal Finance & Wealth Management  <a href="https://fin-flow-eight-eta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing" target="_blank">🎥</a>
-- ⏳ **Task Nova** — Focus & Workflow Management  <a href="https://tasknova-harshavardhanbotlagunta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view" target="_blank">🎥</a>
-- ✍️ **BlogHub** — MERN Blogging Ecosystem  <a href="https://bloghub-harshavardhanbotlagunta.vercel.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing" target="_blank">🎥</a>
-- 🌍 **GeoNexusAI** — Land Assessment & Risk Prediction  <a href="https://geo-nexus-ai.vercel.app/" target="_blank">🌐</a><a
-href="https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view" target="_blank">🎥</a>
-- 👁️ **Diabetic Retinopathy** — Deep Learning  <a href="https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/" target="_blank">🌐</a> <a href="https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link" target="_blank">🎥</a>
-- 🎪 **College Event Management** — Java <a href="https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419" target="_blank">🎥</a>
-- 💼 **Personal Portfolio** — HTML CSS JS <a href="https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view" target="_blank">🎥</a>
+
+- 💰 **[FinFlow](https://fin-flow-eight-eta.vercel.app/)** — Personal Finance & Wealth Management
+  · [🎥 Demo](https://drive.google.com/file/d/1thcU6A24lP53D-6aLuGj6aMRhO2bEzOQ/view?usp=sharing)
+
+- ⏳ **[Task Nova](https://tasknova-harshavardhanbotlagunta.vercel.app/)** — Focus & Workflow Management
+  · [🎥 Demo](https://drive.google.com/file/d/1TeOOfpsI1_KVS1sFb6JI-eCihXnop4NG/view)
+
+- ✍️ **[BlogHub](https://bloghub-harshavardhanbotlagunta.vercel.app/)** — MERN Blogging Ecosystem
+  · [🎥 Demo](https://drive.google.com/file/d/1iA01ic6o_ERUCW5asGtVdYrguMcf7ToX/view?usp=sharing)
+
+- 🌍 **[GeoNexusAI](https://geo-nexus-ai.vercel.app/)** — Land Assessment & Risk Prediction
+  · [🎥 Demo](https://drive.google.com/file/d/1frhz2Ex81sCZHpjaFizrknbPpD4lLVmX/view)
+
+- 👁️ **[Diabetic Retinopathy](https://diabeticretinopathy-it-vnr-2022-26.streamlit.app/)** — Deep Learning
+  · [🎥 Demo](https://drive.google.com/file/d/1i82U66MMFyP644uGmRdzA3kgQ6Ao1Wwz/view?usp=drive_link)
+
+- 🎪 **College Event Management** — Java
+  · [🎥 Demo](https://drive.google.com/file/d/1orx_jixQIoefrRLgnMOWpv25kYovs0Ev/view?t=0.419)
+
+- 💼 **Personal Portfolio** — HTML · CSS · JavaScript
+  · [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
 
 
 ---
-<!--
+
+<h3 align="center">
+  <code>HarshaGitZone ~ $ cat ./tech-stack</code>
+</h3>
+
 ## 🛠 Tech Stack
 
 | Category | Skills |
 |---------|--------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,java&perline=12" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,redux&perline=12" /> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=12" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=12" /> |
+| **Languages** | <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a> |
+| **Frontend** | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a> |
+| **Backend & Databases** | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
+| **Tools** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
 
----
--->
-<!--
-## 🛠 Tech Stack
-
-
-| Category | Skills |
-|---------|--------|
-| **Languages** | <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a> <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a> |
-| **Frontend** | <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" /></a> |
-| **Backend & Databases** | <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
-| **Tools** | <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
--->
-## 🛠 Tech Stack
-
-| Category | Skills |
-|---------|--------|
-| **Languages** | <a href="https://www.cprogramming.com/" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a> <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" /></a> |
-| **Frontend** | <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://skillicons.dev/icons?i=vite" /></a> <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://skillicons.dev/icons?i=redux" /></a> |
-| **Backend & Databases** | <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" /></a> |
-| **Tools** | <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
 
 ---
 
+<h3 align="center">
+  <code>HarshaGitZone ~ $ cat ./current-focus</code>
+</h3>
 
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaGitZone&show_icons=true&hide_border=true&count_private=true" />
+<div align="center">
 
-</p>--> 
+**Full-Stack Development** · **React** · **TypeScript** · **Node.js** · **MongoDB**
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaGitZone&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGitZone&layout=donut-vertical&theme=tokyonight&hide_border=true" />
-</p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagitzone&" alt="harshagitzone" /></p> -->
+Building useful applications, exploring new technologies, and continuously improving as a developer.
+
+</div>
 
 
+---
+
+<div align="center">
+
+### <code>HarshaGitZone ~ $ exit</code>
+
+**Thanks for visiting! 🚀**
+
+<br>
+
+<a href="https://github.com/HarshaGitZone">
+  <img src="https://img.shields.io/badge/GitHub-HarshaGitZone-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/harshavardhan-botlagunta/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
