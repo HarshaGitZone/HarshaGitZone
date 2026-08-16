@@ -36,7 +36,7 @@
 </td>
 
 <td>
-<a href="https://harshavardhanbotlagunta.netlify.app/">
+<a href="https://harshavardhanbotlagunta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 </td>
