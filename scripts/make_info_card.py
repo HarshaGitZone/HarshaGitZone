@@ -23,9 +23,9 @@ LANGUAGES = "C++ • Java • JavaScript • Python • SQL"
 CURRENTLY = "Building & learning"
 
 PROJECTS = [
-    "DeepFabric",
-    "NoteFabric",
+    "Task Nova",
     "FinFlow",
+    "BlogHub",
     "GeoNexusAI",
 ]
 
