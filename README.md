@@ -59,6 +59,7 @@
   <img src="./profile/contrib-heatmap-v2.svg" width="840" alt="GitHub contribution heatmap">
 
 </div>
+
 ---
 
 <!-- ===================== PROJECTS ===================== -->
