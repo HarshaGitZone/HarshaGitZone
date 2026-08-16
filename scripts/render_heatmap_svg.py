@@ -26,11 +26,11 @@ FONT = "Arial, sans-serif"
 
 # GitHub-inspired palette
 PALETTE = [
-    "#161b22",
-    "#0e4429",
-    "#006d32",
-    "#26a641",
-    "#39d353",
+    "#161b22",  # none
+    "#164e63",  # 1-2
+    "#0e7490",  # 3-6
+    "#06b6d4",  # 7-15
+    "#67e8f9",  # 16+
 ]
 
 
@@ -122,19 +122,26 @@ def get_level(day):
     if day is None:
         return 0
 
-    level = day.get(
-        "level",
-        0
-    )
-
-    return max(
-        0,
-        min(
-            4,
-            int(level)
+    count = int(
+        day.get(
+            "count",
+            0
         )
     )
 
+    if count == 0:
+        return 0
+
+    if count <= 2:
+        return 1
+
+    if count <= 6:
+        return 2
+
+    if count <= 15:
+        return 3
+
+    return 4
 
 def esc(value):
 
