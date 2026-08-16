@@ -56,7 +56,7 @@
 
 <div align="center">
 
-  <img src="./profile/contrib-heatmap.svg?v=2" width="840" alt="GitHub contribution heatmap">
+  <img src="./profile/contrib-heatmap-v2.svg" width="840" alt="GitHub contribution heatmap">
 
 </div>
 
