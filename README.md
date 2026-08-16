@@ -7,7 +7,7 @@
   <h1>Harsha Vardhan Botlagunta</h1>
 
   <p>
-    <strong>Full-Stack Developer</strong> · React · TypeScript · Node.js · MongoDB
+    <strong>Full-Stack Developer</strong> · React · TypeScript · Node.js · Nestjs · MongoDB · SQL
   </p>
 
   <!-- ===================== TERMINAL PROFILE ===================== -->
