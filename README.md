@@ -59,7 +59,7 @@
   <img src="./profile/contrib-heatmap-v2.svg" width="840" alt="GitHub contribution heatmap">
 
 </div>
-
+---
 
 <!-- ===================== PROJECTS ===================== -->
 
@@ -80,8 +80,6 @@
 - 💼 **Personal Portfolio** — HTML · CSS · JavaScript · [🌐 Live](https://harshavardhanbotlagunta.vercel.app/) · [🎥 Demo](https://drive.google.com/file/d/1uAWwqJjsS1VRmWgiEysXDF9POedFAkj2/view)
 
 </div>
-
----
 
 ---
 
