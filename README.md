@@ -7,7 +7,7 @@
   <h1>Harsha Vardhan Botlagunta</h1>
 
   <p>
-    <strong>Full-Stack Developer</strong> · React · TypeScript · Node.js · Nestjs · MongoDB · SQL
+    <strong>Associate Technical Support Engineer</strong> · Salesforce · React · TypeScript · Node.js · Nestjs · MongoDB · SQL
   </p>
 
   <!-- ===================== TERMINAL PROFILE ===================== -->
@@ -19,7 +19,7 @@
   <table>
     <tr>
       <td valign="top" align="center"><img src="./profile/ascii.svg" width="370" alt="Animated ASCII portrait"></td>
-      <td valign="top" align="center"><img src="./profile/info-card.svg" width="470" alt="Harsha Vardhan developer information"></td>
+      <td valign="top" align="center"><img src="./profile/info-card.svg" width="470" alt="Harsha Vardhan Botlagunta developer information"></td>
     </tr>
   </table>
 

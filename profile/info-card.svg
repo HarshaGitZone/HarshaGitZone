@@ -81,7 +81,7 @@ viewBox="0 0 470 370">
     font-size="22px"
     font-weight="bold"
     fill="#e6edf3"
->Harsha Vardhan</text>
+>Harsha Vardhan Botlagunta</text>
 
 <text
     x="22"
@@ -112,7 +112,7 @@ viewBox="0 0 470 370">
     font-size="12px"
     font-weight="normal"
     fill="#e6edf3"
->Full-Stack Developer</text>
+>Associate Technical Support Engineer</text>
 </g>
 <g
     class="card-line"
@@ -125,7 +125,7 @@ viewBox="0 0 470 370">
     font-size="11px"
     font-weight="bold"
     fill="#8b949e"
->EDU</text>
+>ORG</text>
 
 <text
     x="105"
@@ -134,7 +134,7 @@ viewBox="0 0 470 370">
     font-size="12px"
     font-weight="normal"
     fill="#e6edf3"
->B.Tech IT • VNR VJIET &#x27;26</text>
+>Salesforce</text>
 </g>
 <g
     class="card-line"
@@ -169,7 +169,7 @@ viewBox="0 0 470 370">
     font-size="11px"
     font-weight="bold"
     fill="#8b949e"
->STACK</text>
+>EDU</text>
 
 <text
     x="105"
@@ -178,7 +178,7 @@ viewBox="0 0 470 370">
     font-size="12px"
     font-weight="normal"
     fill="#e6edf3"
->React • Node.js • Express • MongoDB</text>
+>B.Tech IT • VNR VJIET &#x27;26</text>
 </g>
 <g
     class="card-line"
@@ -191,7 +191,7 @@ viewBox="0 0 470 370">
     font-size="11px"
     font-weight="bold"
     fill="#8b949e"
->LANG</text>
+>STACK</text>
 
 <text
     x="105"
@@ -200,7 +200,7 @@ viewBox="0 0 470 370">
     font-size="12px"
     font-weight="normal"
     fill="#e6edf3"
->C++ • Java • JavaScript • Python • SQL</text>
+>React • Node.js • Express • MongoDB</text>
 </g>
 <g
     class="card-line"
@@ -213,11 +213,33 @@ viewBox="0 0 470 370">
     font-size="11px"
     font-weight="bold"
     fill="#8b949e"
->STATUS</text>
+>LANG</text>
 
 <text
     x="105"
     y="285"
+    font-family="Courier New, monospace"
+    font-size="12px"
+    font-weight="normal"
+    fill="#e6edf3"
+>C++ • Java • JavaScript • Python • SQL</text>
+</g>
+<g
+    class="card-line"
+    style="animation-delay:0.62s">
+
+<text
+    x="22"
+    y="317"
+    font-family="Courier New, monospace"
+    font-size="11px"
+    font-weight="bold"
+    fill="#8b949e"
+>STATUS</text>
+
+<text
+    x="105"
+    y="317"
     font-family="Courier New, monospace"
     font-size="12px"
     font-weight="normal"
@@ -230,7 +252,7 @@ viewBox="0 0 470 370">
 
 <text
     x="22"
-    y="325"
+    y="349"
     font-family="Courier New, monospace"
     font-size="11px"
     font-weight="bold"
@@ -243,7 +265,7 @@ viewBox="0 0 470 370">
 
 <text
     x="105"
-    y="325"
+    y="349"
     font-family="Courier New, monospace"
     font-size="11px"
     font-weight="normal"
@@ -253,7 +275,7 @@ viewBox="0 0 470 370">
 <rect
     class="cursor"
     x="440"
-    y="342"
+    y="356"
     width="7"
     height="13"
     fill="#39d353"/>
