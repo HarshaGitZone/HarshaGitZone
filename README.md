@@ -7,7 +7,7 @@
   <h1>Harsha Vardhan Botlagunta</h1>
 
   <p>
-    <strong>Associate Technical Support Engineer</strong> · Salesforce · React · TypeScript · Node.js · Nestjs · MongoDB · SQL
+    <strong>Salesforce</strong> · React · TypeScript · Node.js · Nestjs · MongoDB · SQL
   </p>
 
   <!-- ===================== TERMINAL PROFILE ===================== -->
